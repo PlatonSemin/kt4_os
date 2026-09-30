@@ -5,7 +5,7 @@
     code ID #REQUIRED>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT address (#PCDATA)>
-
+	
 <!ELEMENT lessons (lesson+)>
 <!ELEMENT lesson (date, time)>
 <!ATTLIST lesson
@@ -13,4 +13,6 @@
     complex IDREF #REQUIRED>
 
 <!ELEMENT date (#PCDATA)>
-<!ELEMENT time (#PCDATA)> 
+<!ELEMENT time (#PCDATA)>
+
+
