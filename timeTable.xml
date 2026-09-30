@@ -1,0 +1,26 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<timeTable>
+<complexes>
+<complex code="c1">
+<name>Главный корпус</name>
+<address>ул. Лесная, д. 5</address>
+</complex>
+<complex code="c2">
+<name>Второй корпус</name>
+<address>пр-т Мира, д. 10</address>
+</complex>
+</complexes>
+<lessons>
+<lesson no="1" complex="c1">
+<date>2026-09-29</date>
+<time>09:00</time>
+</lesson>
+<lesson no="2" complex="c2">
+<date>2026-09-29</date>
+<time>11:30</time>
+</lesson>
+</lessons>
+</timeTable>
+
+
+
